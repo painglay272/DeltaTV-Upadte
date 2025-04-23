@@ -1,1 +1,1 @@
-{"version":"1.1","detail":"New Ui Desing,Update Ads Feature,Fix Bug,We will try all country are using in our application.","link":"https://deltacoder.online"}
+{"version":"1.2","detail":"New Ui Desing,Update Ads Feature,Fix Bug,We will try all country are using in our application.","link":"https://deltacoder.online"}
